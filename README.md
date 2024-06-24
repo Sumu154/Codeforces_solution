@@ -34,31 +34,3 @@ here all problems are
 </div>
 
 
-<div align="center">
-  <table style="border-collapse: collapse; width: 80%;">
-    <thead>
-      <tr>
-        <th style="border: 1px solid black; padding: 10px;">Feature</th>
-        <th style="border: 1px solid black; padding: 10px;">Description</th>
-        <th style="border: 1px solid black; padding: 10px;">Status</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="border: 1px solid black; padding: 10px;">Feature A</td>
-        <td style="border: 1px solid black; padding: 10px;">Description of Feature A</td>
-        <td style="border: 1px solid black; padding: 10px;">Complete</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid black; padding: 10px;">Feature B</td>
-        <td style="border: 1px solid black; padding: 10px;">Description of Feature B</td>
-        <td style="border: 1px solid black; padding: 10px;">In Progress</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid black; padding: 10px;">Feature C</td>
-        <td style="border: 1px solid black; padding: 10px;">Description of Feature C</td>
-        <td style="border: 1px solid black; padding: 10px;">Planned</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
