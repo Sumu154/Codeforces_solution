@@ -9,6 +9,8 @@ here all problems are
 
 <br><br><br>
 
+<div align="center">
+
 | Problem ID                               | Question | Solution  |
 |------------------------------------------|----------|-----------|
 |  1332B-Composite coloring                | [problem](https://codeforces.com/problemset/problem/1332/B)  | [solution](https://github.com/Sumu154/Codeforces_solution/blob/main/1332B-Composite%20coloring/solution.cpp)  | 
@@ -27,6 +29,6 @@ here all problems are
 
 
 
-
+</div>
 
 
