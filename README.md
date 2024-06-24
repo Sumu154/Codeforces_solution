@@ -24,7 +24,7 @@ here all problems are
 |1933C-Turtle Fingers Count the Values of k  | [problem](https://codeforces.com/contest/1933/problem/C)  | [solution](https://github.com/Sumu154/Codeforces_solution/blob/main/1933C-Turtle%20Fingers%20Count%20the%20Values%20of%20k/solution.cpp)  |
 |1986A-X Axis  | [problem](https://codeforces.com/contest/1986/problem/A)  | [solution](https://github.com/Sumu154/Codeforces_solution/blob/main/1986A-X%20Axis/solution.cpp)  |
 |1986B-Matrix Stabilization  | [problem](https://codeforces.com/contest/1986/problem/B)  | [solution](https://github.com/Sumu154/Codeforces_solution/blob/main/1986B-Matrix%20Stabilization/solution.cpp)  |
-|1986B-Matrix Stabilization  | [problem](https://codeforces.com/contest/1986/problem/C)  | [solution](https://github.com/Sumu154/Codeforces_solution/blob/main/1986C-Update%20Queries/solution.cpp)  |
+|1986C-Update Queries  | [problem](https://codeforces.com/contest/1986/problem/C)  | [solution](https://github.com/Sumu154/Codeforces_solution/blob/main/1986C-Update%20Queries/solution.cpp)  |
 |1986D-Mathematical Problem | [problem](https://codeforces.com/contest/1986/problem/D)  | [solution](https://github.com/Sumu154/Codeforces_solution/blob/main/1986D-Mathematical%20Problem/solution.cpp)  |
 
 
