@@ -9,7 +9,7 @@ here all problems are
 
 <br><br><br>
 
-<div align="center">
+<div align="center" width="70%">
 
 | Problem ID                               | Question | Solution  |
 |------------------------------------------|----------|-----------|
