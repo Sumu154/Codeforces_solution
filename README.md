@@ -9,10 +9,11 @@ here all problems are
 
 <br><br><br>
 
-<div align="center" width="70%">
+<div align="center">
 
-| Problem ID                               | Question | Solution  |
-|------------------------------------------|----------|-----------|
+| Problem ID | Question | Solution  |
+|------------|----------|-----------|
+|  230B-T-primes  | [problem](https://codeforces.com/problemset/problem/1332/B)  | [solution](https://github.com/Sumu154/Codeforces_solution/blob/main/1332B-Composite%20coloring/solution.cpp)  | 
 |  1332B-Composite coloring                | [problem](https://codeforces.com/problemset/problem/1332/B)  | [solution](https://github.com/Sumu154/Codeforces_solution/blob/main/1332B-Composite%20coloring/solution.cpp)  | 
 | 1474B-Different Divisors               | [problem](https://codeforces.com/contest/1474/problem/B)  | [solution](https://github.com/Sumu154/Codeforces_solution/blob/main/1474B-Different%20Divisors/solution.cpp)  |
 | 1521A-Nastia and Nearly Good Numbers       | [problem](https://codeforces.com/contest/1521/problem/A)  | [solution](https://github.com/Sumu154/Codeforces_solution/blob/main/1521A-Nastia%20and%20Nearly%20Good%20Numbers/solution.cpp)  |
